@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #292E33;
+}
+
+/* ------------ Header Start--------- */
+
+.header {
+    text-align: center;
+}
+
+.header h1 {
+    color: aqua;
+    text-decoration: underline;
+    font-size: 32px;
+    margin-top: 10px;
+    letter-spacing: 1px;
+}
+
+.information {
+    font-size: 22px;
+    margin: 30px 50px;
+}
+
+.information p span {
+    color: aqua;
+}
+
+.information p {
+    color: white;
+    margin-top: 10px;
+
+}
+
+.contact-text {
+    margin-bottom: 20px;
+}
+
+.contact-text p1 {
+
+    padding-left: 50px;
+}
+
+.contact-text p1 i {
+    color: red;
+    padding: 10px 10px;
+    font-size: 34px;
+    border-radius: 10px;
+    border: 3px solid aqua;
+    background-color: aqua;
+    color: rgb(12, 3, 36);
+    transition: 0.5s ease-in-out;
+    letter-spacing: 1px;
+}
+
+.contact-text p1 i:hover {
+    background-color: rgb(12, 3, 36);
+    color: aqua;
+}
+
+/* ------------ Header End --------- */
+
+/* ------------ Career Objective Start ----------- */
+
+.para {
+    margin: 30px 0px;
+    margin-left: 50px;
+    width: 400px;
+}
+
+.para h2 {
+    font-size: 32px;
+    color: aqua;
+}
+
+.text p {
+    margin-left: 80px;
+    color: white;
+    font-size: 22px;
+}
+
+/* ------------ Career Objective End ----------- */
+
+/* ------- Education Qualification start ------ */
+
+table {
+    font-size: 22px;
+    margin-left: 100px;
+    border-collapse: collapse;
+    border: 2px solid aqua;
+}
+
+tr, th, td {
+    color: white;
+    border: 2px solid aqua;
+    border-collapse: collapse;
+}
+
+th {
+    padding: 20px 10px;
+}
+
+td {
+    text-align: center;
+    padding: 20px 20px;
+}
+
+/* -------- Education Qualification End --------- */
+
+/* -------- Computer Skills Start ---------- */
+
+ul {
+    font-size: 22px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    color: white;
+    list-style: square;
+    letter-spacing: 1px;
+}
+
+/* -------- Computer Skills End ---------- */
+
+/* -------- Reference Start ---------- */
+
+.refer {
+    color: white;
+    margin-bottom: 30px;
+}
+
+.refer h4 {
+    color: aqua;
+    font-size: 28px;
+    margin-left: 70px;
+}
+
+.refer p {
+    font-size: 22px;
+    margin-left: 100px;
+
+}
+
+/* -------- Reference End ---------- */
+
+/* ----------- Declaration Start ----------- */
+
+p1 {
+    font-size: 22px;
+    color: white;
+    padding-left: 80px;
+    text-align: justify;
+    width: 500px;
+
+}
+
+/* ----------- Declaration End ----------- */
+
